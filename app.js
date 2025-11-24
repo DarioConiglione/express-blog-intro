@@ -5,30 +5,30 @@ const port = 3000
 const posts = [
     {
         titolo: "Perché devi iniziare ad investire",
-        contenuto: "Questo contenuyo devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare", immagine: "/imgs/boolean.jpg",
+        contenuto: "Questo contenuto devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare", immagine: "/imgs/boolean.jpg",
         tags: ["testo1", "testo2", "testo3", "testo4"]
     },
     {
         titolo: "Investire in obligazioni",
-        contenuto: "Questo contenuyo devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
+        contenuto: "Questo contenuto devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
         immagine: "/imgs/seconda.jpg",
         tags: ["tagA", "tagB", "tagC", "tagD"]
     },
     {
         titolo: "Investire in azioni",
-        contenuto: "Questo contenuyo devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
+        contenuto: "Questo contenuto devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
         immagine: "/imgs/terza.jpg",
         tags: ["uno", "due", "tre", "quattro"]
     },
     {
         titolo: "Oro, materie prime ed altre asset class",
-        contenuto: "Questo contenuyo devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
+        contenuto: "Questo contenuto devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
         immagine: "/imgs/quarta.jpg",
         tags: ["alpha", "beta", "gamma", "delta"]
     },
     {
         titolo: "Come investire in ETF",
-        contenuto: "Questo contenuyo devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
+        contenuto: "Questo contenuto devo ancora generarlo bene perché voglio capire prima come funziona la logica, poi penso a perfezionare",
         immagine: "/imgs/quinta.jpg",
         tags: ["x", "y", "z", "w"]
     }
