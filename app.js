@@ -37,6 +37,10 @@ const posts = [
 
 app.use(express.static('public'));
 
+app.get('/bacheca', (req, res) => {
+    res.json(posts);
+});
+
 app.get('/', (req, res) => {
     res.send('Server del mio Blog!')
 })
